@@ -1,0 +1,425 @@
+INFO - 2023-08-06 00:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 00:29:52 --> Division by zero
+in APPPATH\Controllers\User.php on line 465.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->uji_datanb()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 00:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 00:38:22 --> Attempt to read property "nama" on array
+in APPPATH\Views\user\datagitar.php on line 329.
+ 1 APPPATH\Views\user\datagitar.php(329): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 329)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(512): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 00:42:32 --> Attempt to read property "nama" on array
+in APPPATH\Views\user\datagitar.php on line 329.
+ 1 APPPATH\Views\user\datagitar.php(329): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 329)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(513): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 00:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 00:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 01:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 01:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 01:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 01:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 01:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 05:44:53 --> Uninitialized string offset 49
+in APPPATH\Controllers\User.php on line 530.
+ 1 APPPATH\Controllers\User.php(530): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 49', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 530)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 05:47:55 --> Uninitialized string offset 49
+in APPPATH\Controllers\User.php on line 530.
+ 1 APPPATH\Controllers\User.php(530): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 49', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 530)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 05:53:28 --> Undefined variable $data
+in APPPATH\Controllers\User.php on line 523.
+ 1 APPPATH\Controllers\User.php(523): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 523)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 05:56:17 --> insertBatch() has no data.
+in SYSTEMPATH\Database\BaseBuilder.php on line 1772.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2192): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 2 SYSTEMPATH\Model.php(364): CodeIgniter\Database\BaseBuilder->insertBatch([], null, 100)
+ 3 SYSTEMPATH\BaseModel.php(874): CodeIgniter\Model->doInsertBatch([], null, 100, false)
+ 4 APPPATH\Controllers\User.php(556): CodeIgniter\BaseModel->insertBatch([])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 05:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 05:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 06:04:16 --> Undefined array key "hasil"
+in APPPATH\Controllers\User.php on line 526.
+ 1 APPPATH\Controllers\User.php(526): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "hasil"', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 526)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 06:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 06:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 06:13:27 --> syntax error, unexpected token ";", expecting "->" or "?->" or "{" or "["
+in APPPATH\Controllers\User.php on line 523.
+ 1 SYSTEMPATH\Router\Router.php(507): CodeIgniter\Router\AutoRouter->getRoute('user/contentbased')
+ 2 SYSTEMPATH\Router\Router.php(206): CodeIgniter\Router\Router->autoRoute('user/contentbased')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('user/contentbased')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:15:16 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 523.
+ 1 APPPATH\Controllers\User.php(523): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 523)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:15:18 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 523.
+ 1 APPPATH\Controllers\User.php(523): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 523)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:17:39 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 523.
+ 1 APPPATH\Controllers\User.php(523): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 523)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:17:41 --> Undefined property: stdClass::$nisn
+in APPPATH\Views\user\datagitar.php on line 306.
+ 1 APPPATH\Views\user\datagitar.php(306): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nisn', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 306)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:19:06 --> Undefined variable $id_gitar
+in APPPATH\Views\user\datagitar.php on line 306.
+ 1 APPPATH\Views\user\datagitar.php(306): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 306)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:26:05 --> Undefined property: stdClass::$id_nama
+in APPPATH\Views\user\datagitar.php on line 307.
+ 1 APPPATH\Views\user\datagitar.php(307): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_nama', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 307)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:48:26 --> Undefined variable $index
+in APPPATH\Views\user\datagitar.php on line 289.
+ 1 APPPATH\Views\user\datagitar.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 289)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:48:36 --> Cannot increment stdClass
+in APPPATH\Views\user\datagitar.php on line 289.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 4 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:50:19 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 527.
+ 1 APPPATH\Controllers\User.php(527): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 527)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:53:43 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 527.
+ 1 APPPATH\Controllers\User.php(527): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 527)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 06:55:05 --> foreach() argument must be of type array|object, null given
+in APPPATH\Controllers\User.php on line 527.
+ 1 APPPATH\Controllers\User.php(527): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 527)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 07:11:33 --> Undefined variable $value
+in APPPATH\Views\user\datagitar.php on line 300.
+ 1 APPPATH\Views\user\datagitar.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php', 300)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\datagitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/datagitar', [], true)
+ 5 APPPATH\Controllers\User.php(516): view('user/datagitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->contentbased()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 07:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 07:46:43 --> Array to string conversion
+in SYSTEMPATH\Database\BaseBuilder.php on line 2160.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\gitar\\gitar\\system\\Database\\BaseBuilder.php', 2160)
+ 2 SYSTEMPATH\Database\BaseBuilder.php(2160): implode(',', [...])
+ 3 [internal function]: CodeIgniter\Database\BaseBuilder::CodeIgniter\Database\{closure}([...])
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2160): array_map(Object(Closure), [...])
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2221): CodeIgniter\Database\BaseBuilder->formatValues([...])
+ 6 SYSTEMPATH\Database\BaseBuilder.php(1792): CodeIgniter\Database\BaseBuilder->_insertBatch('`proses_gitar`', [...], [...])
+ 7 SYSTEMPATH\Database\BaseBuilder.php(2192): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 8 SYSTEMPATH\Model.php(364): CodeIgniter\Database\BaseBuilder->insertBatch([...], null, 100)
+ 9 SYSTEMPATH\BaseModel.php(874): CodeIgniter\Model->doInsertBatch([...], null, 100, false)
+10 APPPATH\Controllers\User.php(550): CodeIgniter\BaseModel->insertBatch([...])
+11 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+12 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 07:48:42 --> Array to string conversion
+in SYSTEMPATH\Database\BaseBuilder.php on line 2160.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\gitar\\gitar\\system\\Database\\BaseBuilder.php', 2160)
+ 2 SYSTEMPATH\Database\BaseBuilder.php(2160): implode(',', [...])
+ 3 [internal function]: CodeIgniter\Database\BaseBuilder::CodeIgniter\Database\{closure}([...])
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2160): array_map(Object(Closure), [...])
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2221): CodeIgniter\Database\BaseBuilder->formatValues([...])
+ 6 SYSTEMPATH\Database\BaseBuilder.php(1792): CodeIgniter\Database\BaseBuilder->_insertBatch('`proses_gitar`', [...], [...])
+ 7 SYSTEMPATH\Database\BaseBuilder.php(2192): CodeIgniter\Database\BaseBuilder->batchExecute('_insertBatch', 100)
+ 8 SYSTEMPATH\Model.php(364): CodeIgniter\Database\BaseBuilder->insertBatch([...], null, 100)
+ 9 SYSTEMPATH\BaseModel.php(874): CodeIgniter\Model->doInsertBatch([...], null, 100, false)
+10 APPPATH\Controllers\User.php(550): CodeIgniter\BaseModel->insertBatch([...])
+11 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->prosesBatch()
+12 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 07:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-08-06 08:08:39 --> mysqli_sql_exception: Unknown column 'gitar.hasil' in 'where clause' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\app\Models\ProsesGitarModel.php(18): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(557): App\Models\ProsesGitarModel->getcari()
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-08-06 08:08:39 --> Unknown column 'gitar.hasil' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `gitar`.`hasil` = \'Dicari\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `gitar`.`hasil` = \'Dicari\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `gitar`.`hasil` = \'Dicari\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `gitar`.`hasil` = :gitar.hasil:', [...], false)
+ 5 APPPATH\Models\ProsesGitarModel.php(18): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH\Controllers\User.php(557): App\Models\ProsesGitarModel->getcari()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-08-06 08:09:00 --> mysqli_sql_exception: Unknown column 'pross_gitar.hasil' in 'where clause' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\app\Models\ProsesGitarModel.php(18): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(557): App\Models\ProsesGitarModel->getcari()
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-08-06 08:09:00 --> Unknown column 'pross_gitar.hasil' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `pross_gitar`.`hasil` = \'Dicari\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `pross_gitar`.`hasil` = \'Dicari\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `pross_gitar`.`hasil` = \'Dicari\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `proses_gitar`
+WHERE `pross_gitar`.`hasil` = :pross_gitar.hasil:', [...], false)
+ 5 APPPATH\Models\ProsesGitarModel.php(18): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH\Controllers\User.php(557): App\Models\ProsesGitarModel->getcari()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 08:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 08:36:47 --> Undefined variable $nama
+in APPPATH\Views\user\formhitungdata.php on line 317.
+ 1 APPPATH\Views\user\formhitungdata.php(317): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\formhitungdata.php', 317)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\formhitungdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/formhitungdata', [], true)
+ 5 APPPATH\Controllers\User.php(568): view('user/formhitungdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-08-06 08:37:24 --> Attempt to read property "nama" on array
+in APPPATH\Views\user\formhitungdata.php on line 317.
+ 1 APPPATH\Views\user\formhitungdata.php(317): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\formhitungdata.php', 317)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\formhitungdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/formhitungdata', [], true)
+ 5 APPPATH\Controllers\User.php(568): view('user/formhitungdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->hitungdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 08:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 08:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 09:19:19 --> Undefined variable $kesimpulan
+in APPPATH\Controllers\User.php on line 623.
+ 1 APPPATH\Controllers\User.php(623): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kesimpulan', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 623)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->mulaihitungdata()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-08-06 09:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-06 09:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-06 09:44:31 --> Undefined variable $kesimpulan
+in APPPATH\Controllers\User.php on line 623.
+ 1 APPPATH\Controllers\User.php(623): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kesimpulan', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 623)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->mulaihitungdata()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')

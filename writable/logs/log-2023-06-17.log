@@ -1,0 +1,180 @@
+ERROR - 2023-06-17 09:13:41 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'gitar', 3306, '', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `gitar`....', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\app\Models\GitarModel.php(38): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(225): App\Models\GitarModel->getsuka('Akustik', 'Sedang')
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `gitar`....', Array, false)
+#3 C:\xampp\htdocs\gitar\gitar\app\Models\GitarModel.php(38): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(225): App\Models\GitarModel->getsuka('Akustik', 'Sedang')
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2023-06-17 09:13:41 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `gitar`.`id_merk`, `gitar`.`id_gitar`, `gitar`.`harga`, `gitar`.`gambar`, `gitar`.`nama`, `gitar`.`warna`, `gitar`.`jenis`, `gitar`.`ukuran`
+FROM `gitar`
+WHERE `id_merk` NOT IN :id_merk:
+AND `gitar`.`harga` = :gitar.harga:', [...], false)
+ 3 APPPATH\Models\GitarModel.php(38): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\User.php(225): App\Models\GitarModel->getsuka('Akustik', 'Sedang')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-17 09:27:12 --> Call to undefined method App\Models\GitarModel::getsuka
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\User.php(225): CodeIgniter\Model->__call('getsuka', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 12:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 12:09:28 --> Undefined property: stdClass::$merk_gitar
+in APPPATH\Views\user\lihatproduk.php on line 305.
+ 1 APPPATH\Views\user\lihatproduk.php(305): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$merk_gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\lihatproduk.php', 305)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\lihatproduk.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/lihatproduk', [], true)
+ 5 APPPATH\Controllers\User.php(48): view('user/lihatproduk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->lihatproduk()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-17 12:15:22 --> Undefined variable $ukuran
+in APPPATH\Models\GitarModel.php on line 44.
+ 1 APPPATH\Models\GitarModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ukuran', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Models\\GitarModel.php', 44)
+ 2 APPPATH\Controllers\User.php(232): App\Models\GitarModel->getjenis('Akustik Elektrik')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-17 12:40:16 --> Call to undefined method App\Models\GitarModel::getjenis
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\User.php(222): CodeIgniter\Model->__call('getjenis', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:28:05 --> Undefined variable $hasiltidaksuka
+in APPPATH\Views\user\nbview.php on line 406.
+ 1 APPPATH\Views\user\nbview.php(406): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidaksuka', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 406)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:28:27 --> Undefined variable $hasiltidaksuka
+in APPPATH\Views\user\nbview.php on line 406.
+ 1 APPPATH\Views\user\nbview.php(406): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidaksuka', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 406)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:28:56 --> Undefined variable $hasiltidakdisukai
+in APPPATH\Views\user\nbview.php on line 406.
+ 1 APPPATH\Views\user\nbview.php(406): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidakdisukai', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 406)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:29:15 --> Undefined variable $hasiltidakdisukai
+in APPPATH\Views\user\nbview.php on line 406.
+ 1 APPPATH\Views\user\nbview.php(406): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidakdisukai', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 406)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:30:00 --> Call to undefined method App\Models\GitarModel::gettidaksuka
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\User.php(315): CodeIgniter\Model->__call('gettidaksuka', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->uji_data()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-17 13:30:43 --> Undefined variable $kesimpulan
+in APPPATH\Controllers\User.php on line 380.
+ 1 APPPATH\Controllers\User.php(380): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kesimpulan', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 380)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->uji_data()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-17 13:31:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-17 13:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-17 13:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:43:49 --> Undefined variable $hasiltidakdisukai
+in APPPATH\Views\user\nbview.php on line 372.
+ 1 APPPATH\Views\user\nbview.php(372): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidakdisukai', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 372)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-17 13:44:11 --> Undefined variable $hasiltidakdisukai
+in APPPATH\Views\user\nbview.php on line 372.
+ 1 APPPATH\Views\user\nbview.php(372): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hasiltidakdisukai', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php', 372)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\nbview.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/nbview', [], true)
+ 5 APPPATH\Controllers\User.php(303): view('user/nbview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->nbview()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-06-17 13:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

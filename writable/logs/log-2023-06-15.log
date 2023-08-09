@@ -1,0 +1,1914 @@
+INFO - 2023-06-15 06:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-15 06:49:47 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:50:20 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:50:51 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:51:17 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+INFO - 2023-06-15 06:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-15 06:51:47 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:52:19 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:53:06 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\User.php on line 81.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 06:53:31 --> Call to a member function move() on null
+in APPPATH\Controllers\User.php on line 82.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->save()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\public\\index.php')
+INFO - 2023-06-15 06:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 06:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-15 07:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-15 07:18:45 --> mysqli_sql_exception: Table 'gitar.merk' doesn't exist in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(221): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:18:45 --> Table 'gitar.merk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Natural Doff\' and ukuran =\'Kecil\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Natural Doff\' and ukuran =\'Kecil\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Natural Doff\' and ukuran =\'Kecil\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(221): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Natural Doff\' and ukuran =\'Kecil\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:54:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN jenis = 'Akustik Elektrik','Akustik' and warna ='Coklat Doff','Natural' an...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:54:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IN jenis = 'Akustik Elektrik','Akustik' and warna ='Coklat Doff','Natural' an...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE IN jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE IN jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE IN jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE IN jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:54:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Akustik' and warna ='Coklat Doff','Natural' and ukuran ='Normal','Sedang'
+ ...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:54:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Akustik' and warna ='Coklat Doff','Natural' and ukuran ='Normal','Sedang'
+ ...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\',\'Akustik\' and warna =\'Coklat Doff\',\'Natural\' and ukuran =\'Normal\',\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:55:46 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE jenis = 'Akustik' and warna ='Natural' and ukuran ='Sedang'
+        an...' at line 3 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:55:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE jenis = 'Akustik' and warna ='Natural' and ukuran ='Sedang'
+        an...' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Normal\' 
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Normal\' 
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Normal\' 
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Normal\' 
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:58:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and git...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:58:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and git...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+         and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+         and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+         and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+         and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:59:09 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and git...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:59:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and git...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:59:27 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and ...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:59:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and ...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:59:43 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and ...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:59:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik Elektrik' and gitar.warna ='Coklat Doff' and ...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik Elektrik\' and gitar.warna =\'Coklat Doff\' and gitar.ukuran =\'Normal\' 
+        --  and gitar2.jenis = \'Akustik\' and gitar2.warna =\'Natural\' and gitar2.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 07:59:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 07:59:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\' 
+        --  and gitar2.jenis = \'\' and gitar2.warna =\'\' and gitar2.ukuran =\'\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\' 
+        --  and gitar2.jenis = \'\' and gitar2.warna =\'\' and gitar2.ukuran =\'\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\' 
+        --  and gitar2.jenis = \'\' and gitar2.warna =\'\' and gitar2.ukuran =\'\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(235): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\' 
+        --  and gitar2.jenis = \'\' and gitar2.warna =\'\' and gitar2.ukuran =\'\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:00:17 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:00:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE IN gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE IN gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:00:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='Sed...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:00:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='Sed...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:00:59 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='Sed...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:00:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE gitar.jenis = 'Akustik' and gitar.warna ='Hitam' and gitar.ukuran ='Sed...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, merk FROM gitar left join gitar.gitar2
+         WHERE gitar.jenis = \'Akustik\' and gitar.warna =\'Hitam\' and gitar.ukuran =\'Sedang\'
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:06:15 --> Undefined property: mysqli::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 301.
+ 1 APPPATH\Views\user\hasilpencarian.php(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 301)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(241): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:06:50 --> Undefined property: mysqli::$id_merk
+in APPPATH\Views\user\hasilpencarian.php on line 300.
+ 1 APPPATH\Views\user\hasilpencarian.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$id_merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 300)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(241): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:07:21 --> Undefined property: mysqli::$nama
+in APPPATH\Views\user\hasilpencarian.php on line 301.
+ 1 APPPATH\Views\user\hasilpencarian.php(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$nama', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 301)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(241): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:09:03 --> Undefined variable $query2
+in APPPATH\Controllers\User.php on line 237.
+ 1 APPPATH\Controllers\User.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query2', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:09:46 --> Undefined property: stdClass::$id_merk
+in APPPATH\Views\user\hasilpencarian.php on line 300.
+ 1 APPPATH\Views\user\hasilpencarian.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 300)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(239): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:10:04 --> mysqli_sql_exception: Column 'id_merk' in field list is ambiguous in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:10:04 --> Column 'id_merk' in field list is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 08:23:25 --> Undefined variable $id_merk
+in APPPATH\Views\user\hasilpencarian.php on line 308.
+ 1 APPPATH\Views\user\hasilpencarian.php(308): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 308)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(243): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:34:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal' 
+       and harg...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:34:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal' 
+       and harg...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:35:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal' 
+       and harg...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:35:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal' 
+       and harg...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        EXCEPT jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+       and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:40:46 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:40:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:41:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:41:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:41:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:41:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:42:08 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:42:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:57:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:57:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar...' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+
+      ')
+ 4 APPPATH\Controllers\User.php(238): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 08:58:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar'' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 08:58:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar'' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar\' 
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar\' 
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar\' 
+      ')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar\' 
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:00:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga < 2000000 ORDER BY gitar.id_merk ASC' at line 3 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:00:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga < 2000000 ORDER BY gitar.id_merk ASC' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:02:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+         WHERE jenis = 'Akustik' and warna ='Natural' and ukuran ='No...' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:02:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+         WHERE jenis = 'Akustik' and warna ='Natural' and ukuran ='No...' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 4 APPPATH\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         WHERE jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:03:09 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+         jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal'' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:03:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+         jenis = 'Akustik' and warna ='Natural' and ukuran ='Normal'' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 4 APPPATH\Controllers\User.php(237): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         jenis = \'Akustik\' and warna =\'Natural\' and ukuran =\'Normal\' 
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:03:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:03:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         
+      ')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+         
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:06:56 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT id_merk FROM merk' at line 4 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:06:56 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'EXCEPT
+        SELECT id_merk FROM merk' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT id_merk FROM merk
+        
+      ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT id_merk FROM merk
+        
+      ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT id_merk FROM merk
+        
+      ')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural Doff\' and ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC
+        EXCEPT
+        SELECT id_merk FROM merk
+        
+      ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:09:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Akustik Elektrik' and NOT LIKE warna ='Natural Doff' and NOT LIKE ukuran =...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:09:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Akustik Elektrik' and NOT LIKE warna ='Natural Doff' and NOT LIKE ukuran =...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:10:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Akustik Elektrik' and NOT LIKE warna ='Natural Doff' and NOT LIKE ukuran =...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:10:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Akustik Elektrik' and NOT LIKE warna ='Natural Doff' and NOT LIKE ukuran =...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE = \'Akustik Elektrik\' and NOT LIKE warna =\'Natural Doff\' and NOT LIKE ukuran =\'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:11:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE warna 'Natural Doff' and NOT LIKE ukuran 'Normal' 
+        and harga < ...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:11:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE warna 'Natural Doff' and NOT LIKE ukuran 'Normal' 
+        and harga < ...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik Elektrik\' and NOT LIKE warna \'Natural Doff\' and NOT LIKE ukuran \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik Elektrik\' and NOT LIKE warna \'Natural Doff\' and NOT LIKE ukuran \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik Elektrik\' and NOT LIKE warna \'Natural Doff\' and NOT LIKE ukuran \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik Elektrik\' and NOT LIKE warna \'Natural Doff\' and NOT LIKE ukuran \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:15:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Akustik' and  warna NOT IN 'Natural' and ukuran NOT IN 'Normal' 
+        an...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(246): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:15:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Akustik' and  warna NOT IN 'Natural' and ukuran NOT IN 'Normal' 
+        an...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT IN\'Akustik\' and  warna NOT IN \'Natural\' and ukuran NOT IN \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT IN\'Akustik\' and  warna NOT IN \'Natural\' and ukuran NOT IN \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT IN\'Akustik\' and  warna NOT IN \'Natural\' and ukuran NOT IN \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 4 APPPATH\Controllers\User.php(246): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT IN\'Akustik\' and  warna NOT IN \'Natural\' and ukuran NOT IN \'Normal\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC     
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 09:18:23 --> Undefined variable $query3
+in APPPATH\Controllers\User.php on line 252.
+ 1 APPPATH\Controllers\User.php(252): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query3', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 252)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 09:18:42 --> Undefined variable $query4
+in APPPATH\Controllers\User.php on line 253.
+ 1 APPPATH\Controllers\User.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query4', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 253)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 09:20:36 --> Undefined variable $query4
+in APPPATH\Controllers\User.php on line 253.
+ 1 APPPATH\Controllers\User.php(253): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $query4', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 253)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:28:50 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk ASC' at line 3 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:28:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk ASC' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk ASC     
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk ASC     
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk ASC     
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk ASC     
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:29:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk' at line 3 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:29:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:29:10 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk' at line 3 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:29:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY gitar.id_merk' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal\' 
+        and ORDER BY gitar.id_merk      
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:29:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and jenis NOT LIKE'Akustik Elektrik' and  warna NOT LIKE 'Natural Doff' and u...' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(245): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:29:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and jenis NOT LIKE'Akustik Elektrik' and  warna NOT LIKE 'Natural Doff' and u...' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and jenis NOT LIKE\'Akustik Elektrik\' and  warna NOT LIKE \'Natural Doff\' and ukuran NOT LIKE\'Normal\' 
+
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and jenis NOT LIKE\'Akustik Elektrik\' and  warna NOT LIKE \'Natural Doff\' and ukuran NOT LIKE\'Normal\' 
+
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and jenis NOT LIKE\'Akustik Elektrik\' and  warna NOT LIKE \'Natural Doff\' and ukuran NOT LIKE\'Normal\' 
+
+        ')
+ 4 APPPATH\Controllers\User.php(245): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and jenis NOT LIKE\'Akustik Elektrik\' and  warna NOT LIKE \'Natural Doff\' and ukuran NOT LIKE\'Normal\' 
+
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:30:27 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:30:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 4 APPPATH\Controllers\User.php(242): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:32:06 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:32:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:32:39 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:32:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:32:57 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''sedang' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:32:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''sedang' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'natural\' and ukuran NOT LIKE \'sedang', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'natural\' and ukuran NOT LIKE \'sedang')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'natural\' and ukuran NOT LIKE \'sedang')
+ 4 APPPATH\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE\'natural\' and  warna NOT LIKE \'natural\' and ukuran NOT LIKE \'sedang')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:36:11 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:36:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Normal' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Akustik\' and  warna NOT LIKE \'Natural\' and ukuran NOT LIKE \'Normal')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:41:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:41:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000 ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000 ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000 ')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000 ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:41:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:41:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE jenis NOT LIKE \'Ukulele\'and  and harga <2000000')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 09:51:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000 and jenis NOT LIKE 'Akustik Elektrik'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(243): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 09:51:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga <2000000 and jenis NOT LIKE 'Akustik Elektrik'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE and harga <2000000 and jenis NOT LIKE \'Akustik Elektrik\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE and harga <2000000 and jenis NOT LIKE \'Akustik Elektrik\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE and harga <2000000 and jenis NOT LIKE \'Akustik Elektrik\'')
+ 4 APPPATH\Controllers\User.php(243): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE and harga <2000000 and jenis NOT LIKE \'Akustik Elektrik\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:03:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''terjangkau'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:03:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''terjangkau'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and harga \'terjangkau\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and harga \'terjangkau\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and harga \'terjangkau\'')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and harga \'terjangkau\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 10:06:01 --> Undefined variable $gitar2
+in APPPATH\Views\user\hasilpencarian.php on line 285.
+ 1 APPPATH\Views\user\hasilpencarian.php(285): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gitar2', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 285)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(250): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:06:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'harga='Terjangkau'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:06:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'harga='Terjangkau'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural\' and ukuran =\'Normal\' harga=\'Terjangkau\' 
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural\' and ukuran =\'Normal\' harga=\'Terjangkau\' 
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural\' and ukuran =\'Normal\' harga=\'Terjangkau\' 
+        ')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE jenis = \'Akustik Elektrik\' and warna =\'Natural\' and ukuran =\'Normal\' harga=\'Terjangkau\' 
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-06-15 10:28:41 --> Undefined variable $gitar2
+in APPPATH\Views\user\hasilpencarian.php on line 285.
+ 1 APPPATH\Views\user\hasilpencarian.php(285): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gitar2', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 285)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(250): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:32:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and warna ='Natural' and ukuran ='Normal'and harga='terjangkau'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:32:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and warna ='Natural' and ukuran ='Normal'and harga='terjangkau'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE and warna =\'Natural\' and ukuran =\'Normal\'and harga=\'terjangkau\' 
+        ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE and warna =\'Natural\' and ukuran =\'Normal\'and harga=\'terjangkau\' 
+        ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE and warna =\'Natural\' and ukuran =\'Normal\'and harga=\'terjangkau\' 
+        ')
+ 4 APPPATH\Controllers\User.php(234): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+         WHERE and warna =\'Natural\' and ukuran =\'Normal\'and harga=\'terjangkau\' 
+        ')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:36:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Natural and harga NOT LIKE 'terjangkau'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:36:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Natural and harga NOT LIKE 'terjangkau'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE Natural and harga NOT LIKE \'terjangkau\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE Natural and harga NOT LIKE \'terjangkau\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE Natural and harga NOT LIKE \'terjangkau\'')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE Natural and harga NOT LIKE \'terjangkau\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:48:05 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Super'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:48:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Super'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT IN \'Super\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT IN \'Super\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT IN \'Super\'')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT IN \'Super\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:48:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Super'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:48:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 'Super'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT LIke = \'Super\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT LIke = \'Super\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT LIke = \'Super\'')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE ukuran NOT LIKE\'Normal\' and warna NOT LIKE \'Natural\' and harga NOT LIke = \'Super\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 10:53:51 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga ='Terjangkau'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 10:53:51 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and harga ='Terjangkau'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and harga =\'Terjangkau\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and harga =\'Terjangkau\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and harga =\'Terjangkau\'')
+ 4 APPPATH\Controllers\User.php(240): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  and harga =\'Terjangkau\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-06-15 11:00:33 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Terjangkau'and ukuran NOT LIKE 'Normal'' at line 2 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-06-15 11:00:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Terjangkau'and ukuran NOT LIKE 'Normal'' at line 2
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  harga \'Terjangkau\'and ukuran NOT LIKE \'Normal\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  harga \'Terjangkau\'and ukuran NOT LIKE \'Normal\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  harga \'Terjangkau\'and ukuran NOT LIKE \'Normal\'')
+ 4 APPPATH\Controllers\User.php(241): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga, id_merk FROM gitar
+        WHERE  harga \'Terjangkau\'and ukuran NOT LIKE \'Normal\'')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')

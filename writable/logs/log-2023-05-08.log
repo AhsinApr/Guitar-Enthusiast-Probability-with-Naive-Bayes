@@ -1,0 +1,1128 @@
+CRITICAL - 2023-05-08 10:12:39 --> Undefined variable: l
+in APPPATH\Views\user\editdata.php on line 303.
+ 1 APPPATH\Views\user\editdata.php(303): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: l', 'C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\editdata.php', 303, [])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(26): view('user/editdata')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+CRITICAL - 2023-05-08 10:23:06 --> Undefined variable: l
+in APPPATH\Views\user\editdata.php on line 299.
+ 1 APPPATH\Views\user\editdata.php(299): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: l', 'C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\editdata.php', 299, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+INFO - 2023-05-08 10:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 10:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 11:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 11:33:03 --> Undefined variable: gitar
+in APPPATH\Views\user\pilihgitar.php on line 284.
+ 1 APPPATH\Views\user\pilihgitar.php(284): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: gitar', 'C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\pilihgitar.php', 284, [])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Views\\user\\pilihgitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/pilihgitar', [], true)
+ 5 APPPATH\Controllers\User.php(23): view('user/pilihgitar')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->pilihgitar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+CRITICAL - 2023-05-08 11:34:16 --> Undefined property: App\Controllers\User::$db
+in APPPATH\Controllers\User.php on line 120.
+ 1 APPPATH\Controllers\User.php(120): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\User::$db', 'C:\\xampp\\htdocs\\GUITAR\\GUITAR\\app\\Controllers\\User.php', 120, [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->cari()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+INFO - 2023-05-08 11:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-08 11:58:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' id_gitar = 3' at line 1 in C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\GUITAR\GUITAR\app\Controllers\User.php(122): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(934): App\Controllers\User->cari()
+#5 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\GUITAR\GUITAR\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\GUITAR\GUITAR\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 11:58:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' id_gitar = 3' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar WHERE merk = \'yamaha\', id_gitar = 3', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar WHERE merk = \'yamaha\', id_gitar = 3')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar WHERE merk = \'yamaha\', id_gitar = 3')
+ 4 APPPATH\Controllers\User.php(122): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar WHERE merk = \'yamaha\', id_gitar = 3')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->cari()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+INFO - 2023-05-08 12:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 12:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-08 13:15:37 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< 2000000' at line 1 in C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\GUITAR\GUITAR\app\Controllers\User.php(131): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(934): App\Controllers\User->cari()
+#5 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\GUITAR\GUITAR\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\GUITAR\GUITAR\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 13:15:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '< 2000000' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = < 2000000', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = < 2000000')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = < 2000000')
+ 4 APPPATH\Controllers\User.php(131): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = < 2000000')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->cari()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+ERROR - 2023-05-08 13:16:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<2000000' at line 1 in C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\GUITAR\GUITAR\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\GUITAR\GUITAR\app\Controllers\User.php(131): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(934): App\Controllers\User->cari()
+#5 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\GUITAR\GUITAR\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\GUITAR\GUITAR\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\GUITAR\GUITAR\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 13:16:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<2000000' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = <2000000', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = <2000000')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = <2000000')
+ 4 APPPATH\Controllers\User.php(131): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar WHERE jenis = \'Akustik Elektrik\' and warna =\'Coklat Doff\' and ukuran =\'Sedang\' and harga = <2000000')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->cari()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\GUITAR\\GUITAR\\public\\index.php')
+INFO - 2023-05-08 14:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 14:25:42 --> Undefined index: merk
+in APPPATH\Views\user\editdata.php on line 305.
+ 1 APPPATH\Views\user\editdata.php(305): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php', 305, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 14:27:37 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(161): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 14:30:23 --> Undefined index: merk
+in APPPATH\Views\user\editdata.php on line 305.
+ 1 APPPATH\Views\user\editdata.php(305): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php', 305, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 14:32:59 --> Undefined index: merk
+in APPPATH\Views\user\editgitar.php on line 303.
+ 1 APPPATH\Views\user\editgitar.php(303): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editgitar.php', 303, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editgitar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editgitar', [], true)
+ 5 APPPATH\Controllers\User.php(74): view('user/editgitar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editgitar('2')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-08 14:43:34 --> mysqli_sql_exception: Unknown column 'merk' in 'field list' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `g...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `g...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `g...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `g...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\system\Model.php(494): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\gitar\gitar\system\BaseModel.php(1140): CodeIgniter\Model->doReplace(Array, false)
+#6 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(102): CodeIgniter\BaseModel->replace(Array)
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->saveedit()
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-08 14:43:34 --> Unknown column 'merk' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `gitar` (`id_gitar`, `merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', \'3\', \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `gitar` (`id_gitar`, `merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', \'3\', \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `gitar` (`id_gitar`, `merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', \'3\', \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `gitar` (`id_gitar`, `merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (:id_gitar:, :merk:, :nama:, :ukuran:, :jenis:, :harga:, :warna:)', [...], false)
+ 5 SYSTEMPATH\Model.php(494): CodeIgniter\Database\BaseBuilder->replace([...])
+ 6 SYSTEMPATH\BaseModel.php(1140): CodeIgniter\Model->doReplace([...], false)
+ 7 APPPATH\Controllers\User.php(102): CodeIgniter\BaseModel->replace([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->saveedit()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 14:44:31 --> mysqli_sql_exception: Column 'id_merk' cannot be null in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `g...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `g...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `g...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `g...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\system\Model.php(494): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\gitar\gitar\system\BaseModel.php(1140): CodeIgniter\Model->doReplace(Array, false)
+#6 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(102): CodeIgniter\BaseModel->replace(Array)
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->saveedit()
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-08 14:44:31 --> Column 'id_merk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', NULL, \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', NULL, \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'16\', NULL, \'C8990\', \' Sedang\', \'Akustik\', \'500000\', \'Hitam\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (:id_gitar:, :id_merk:, :nama:, :ukuran:, :jenis:, :harga:, :warna:)', [...], false)
+ 5 SYSTEMPATH\Model.php(494): CodeIgniter\Database\BaseBuilder->replace([...])
+ 6 SYSTEMPATH\BaseModel.php(1140): CodeIgniter\Model->doReplace([...], false)
+ 7 APPPATH\Controllers\User.php(102): CodeIgniter\BaseModel->replace([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->saveedit()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-08 14:47:17 --> mysqli_sql_exception: Column 'id_merk' cannot be null in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `g...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `g...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `g...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `g...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\system\Model.php(494): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\gitar\gitar\system\BaseModel.php(1140): CodeIgniter\Model->doReplace(Array, false)
+#6 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(102): CodeIgniter\BaseModel->replace(Array)
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->saveedit()
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-08 14:47:17 --> Column 'id_merk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (:id_gitar:, :id_merk:, :nama:, :ukuran:, :jenis:, :harga:, :warna:)', [...], false)
+ 5 SYSTEMPATH\Model.php(494): CodeIgniter\Database\BaseBuilder->replace([...])
+ 6 SYSTEMPATH\BaseModel.php(1140): CodeIgniter\Model->doReplace([...], false)
+ 7 APPPATH\Controllers\User.php(102): CodeIgniter\BaseModel->replace([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->saveedit()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 14:47:31 --> mysqli_sql_exception: Column 'id_merk' cannot be null in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `g...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `g...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `g...')
+#3 C:\xampp\htdocs\gitar\gitar\system\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `g...', Array, false)
+#4 C:\xampp\htdocs\gitar\gitar\system\Model.php(494): CodeIgniter\Database\BaseBuilder->replace(Array)
+#5 C:\xampp\htdocs\gitar\gitar\system\BaseModel.php(1140): CodeIgniter\Model->doReplace(Array, false)
+#6 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(102): CodeIgniter\BaseModel->replace(Array)
+#7 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->saveedit()
+#8 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-05-08 14:47:31 --> Column 'id_merk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (\'14\', NULL, \'y123\', \' Sedang\', \'Akustik\', \'1999999\', \'Hitam\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `gitar` (`id_gitar`, `id_merk`, `nama`, `ukuran`, `jenis`, `harga`, `warna`) VALUES (:id_gitar:, :id_merk:, :nama:, :ukuran:, :jenis:, :harga:, :warna:)', [...], false)
+ 5 SYSTEMPATH\Model.php(494): CodeIgniter\Database\BaseBuilder->replace([...])
+ 6 SYSTEMPATH\BaseModel.php(1140): CodeIgniter\Model->doReplace([...], false)
+ 7 APPPATH\Controllers\User.php(102): CodeIgniter\BaseModel->replace([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->saveedit()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 14:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 14:55:31 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(161): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 14:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 15:39:34 --> Undefined variable: l
+in APPPATH\Views\user\editdata.php on line 305.
+ 1 APPPATH\Views\user\editdata.php(305): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: l', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php', 305, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 15:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 15:44:33 --> Undefined variable: l
+in APPPATH\Views\user\editdata.php on line 313.
+ 1 APPPATH\Views\user\editdata.php(313): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: l', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php', 313, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 15:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 15:45:44 --> Undefined property: stdClass::$id_gitar
+in APPPATH\Views\user\editdata.php on line 313.
+ 1 APPPATH\Views\user\editdata.php(313): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$id_gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php', 313, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\editdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/editdata', [], true)
+ 5 APPPATH\Controllers\User.php(33): view('user/editdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->editdata()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 15:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 15:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-08 15:56:22 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getBymerk()
+in APPPATH\Controllers\User.php on line 161.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 15:58:28 --> Undefined property: stdClass::$merk_gitar
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk_gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:02:18 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getResult
+in APPPATH\Controllers\User.php on line 161.
+ 1 APPPATH\Controllers\User.php(161): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getResult', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 161, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:08:28 --> Illegal offset type
+in APPPATH\Controllers\User.php on line 162.
+ 1 APPPATH\Controllers\User.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal offset type', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 162, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:30:02 --> Argument 1 passed to CodeIgniter\Database\BaseResult::getResult() must be of the type string, array given, called in C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php on line 161
+in SYSTEMPATH\Database\BaseResult.php on line 104.
+ 1 APPPATH\Controllers\User.php(161): CodeIgniter\Database\BaseResult->getResult([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:39:33 --> Undefined index: gitar
+in APPPATH\Controllers\User.php on line 165.
+ 1 APPPATH\Controllers\User.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 165, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:40:16 --> Undefined index: gitar
+in APPPATH\Controllers\User.php on line 165.
+ 1 APPPATH\Controllers\User.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 165, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:46:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getByMerk()
+in APPPATH\Controllers\User.php on line 161.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:46:44 --> Argument 1 passed to CodeIgniter\Database\BaseResult::getResult() must be of the type string, array given, called in C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php on line 161
+in SYSTEMPATH\Database\BaseResult.php on line 104.
+ 1 APPPATH\Controllers\User.php(161): CodeIgniter\Database\BaseResult->getResult([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:47:45 --> Undefined index: gitar
+in APPPATH\Controllers\User.php on line 161.
+ 1 APPPATH\Controllers\User.php(161): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: gitar', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Controllers\\User.php', 161, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:51:21 --> Argument 1 passed to CodeIgniter\Database\BaseConnection::query() must be of the type string, array given, called in C:\xampp\htdocs\gitar\gitar\system\Model.php on line 836
+in SYSTEMPATH\Database\BaseConnection.php on line 569.
+ 1 SYSTEMPATH\Model.php(836): CodeIgniter\Database\BaseConnection->query([...], 'SELECT*FROM gitar WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 2 APPPATH\Controllers\User.php(159): CodeIgniter\Model->__call('query', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 16:52:51 --> Argument 1 passed to CodeIgniter\Database\BaseResult::getResult() must be of the type string, array given, called in C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php on line 161
+in SYSTEMPATH\Database\BaseResult.php on line 104.
+ 1 APPPATH\Controllers\User.php(161): CodeIgniter\Database\BaseResult->getResult([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:02:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.id_id_merk WHERE jenis = 'Akustik' and warna ='Hitam' and ukuran ='Sedang' ...' at line 1 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:02:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.id_id_merk WHERE jenis = 'Akustik' and warna ='Hitam' and ukuran ='Sedang' ...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar join merk.id_merk = gitar.id_id_merk WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar join merk.id_merk = gitar.id_id_merk WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar join merk.id_merk = gitar.id_id_merk WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar join merk.id_merk = gitar.id_id_merk WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:04:48 --> mysqli_sql_exception: Unknown column 'gitar.id_id_merk' in 'on clause' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:04:48 --> Unknown column 'gitar.id_id_merk' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:05:05 --> mysqli_sql_exception: Column 'id_merk' in order clause is ambiguous in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:05:05 --> Column 'id_merk' in order clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:06:00 --> mysqli_sql_exception: Unknown column 'merk.id_merak' in 'on clause' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:06:00 --> Unknown column 'merk.id_merak' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar inner join merk on merk.id_merak = gitar.id_merak
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar inner join merk on merk.id_merak = gitar.id_merak
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar inner join merk on merk.id_merak = gitar.id_merak
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar inner join merk on merk.id_merak = gitar.id_merak
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:06:16 --> mysqli_sql_exception: Column 'id_merk' in order clause is ambiguous in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:06:16 --> Column 'id_merk' in order clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(159): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:11:35 --> mysqli_sql_exception: Column 'id_merk' in order clause is ambiguous in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:11:35 --> Column 'id_merk' in order clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 17:14:47 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:18:16 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jeni...' at line 1 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:18:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jeni...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar and merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 17:18:49 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:20:13 --> mysqli_sql_exception: Table 'gitar.id_merk' doesn't exist in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:20:13 --> Table 'gitar.id_merk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:20:37 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.uk...' at line 1 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT* gitar.i...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT* gitar.i...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT* gitar.i...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT* gitar.i...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:20:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.uk...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT* gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT* gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT* gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT* gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:20:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = 'Akus...' at line 1 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT gitar.id...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT gitar.id...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT gitar.id...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT gitar.id...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:20:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = 'Akus...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT gitar.id_merk, gitar.id_gitar, gitar.nama, gitar.warna, gitar.jenis, gitar.ukuran, merk.merk as merk_gitar inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:21:32 --> mysqli_sql_exception: Not unique table/alias: 'merk' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:21:32 --> Not unique table/alias: 'merk'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar, merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar, merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar, merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar, merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:22:28 --> mysqli_sql_exception: Not unique table/alias: 'merk' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM git...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM git...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM git...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM git...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:22:28 --> Not unique table/alias: 'merk'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM gitar merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM gitar merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM gitar merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM gitar merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:22:36 --> mysqli_sql_exception: Not unique table/alias: 'merk' in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM mer...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM mer...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM mer...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM mer...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:22:36 --> Not unique table/alias: 'merk'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT*FROM merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT*FROM merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT*FROM merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT*FROM merk inner join merk on merk.id_merk = gitar.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 17:22:50 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:27:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE je...' at line 1 in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:27:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE je...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, FROM gitar inner join merk on gitar.id_merk = merk.id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 17:27:52 --> Undefined property: stdClass::$merk
+in APPPATH\Views\user\hasilpencarian.php on line 298.
+ 1 APPPATH\Views\user\hasilpencarian.php(298): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$merk', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 298, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+CRITICAL - 2023-05-08 17:28:15 --> Undefined property: stdClass::$warna
+in APPPATH\Views\user\hasilpencarian.php on line 302.
+ 1 APPPATH\Views\user\hasilpencarian.php(302): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$warna', 'C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php', 302, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\gitar\\gitar\\app\\Views\\user\\hasilpencarian.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('user/hasilpencarian', [], true)
+ 5 APPPATH\Controllers\User.php(162): view('user/hasilpencarian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+ERROR - 2023-05-08 17:30:50 --> mysqli_sql_exception: Column 'id_merk' in on clause is ambiguous in C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\gitar\gitar\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, je...', 0)
+#1 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, je...')
+#2 C:\xampp\htdocs\gitar\gitar\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, je...')
+#3 C:\xampp\htdocs\gitar\gitar\app\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT nama, je...')
+#4 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+#5 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 C:\xampp\htdocs\gitar\gitar\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gitar\gitar\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\gitar\gitar\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-05-08 17:30:50 --> Column 'id_merk' in on clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT nama, jenis, ukuran, warna, harga FROM gitar inner join merk on id_merk = id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT nama, jenis, ukuran, warna, harga FROM gitar inner join merk on id_merk = id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT nama, jenis, ukuran, warna, harga FROM gitar inner join merk on id_merk = id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 4 APPPATH\Controllers\User.php(158): CodeIgniter\Database\BaseConnection->query('SELECT nama, jenis, ukuran, warna, harga FROM gitar inner join merk on id_merk = id_merk
+         WHERE jenis = \'Akustik\' and warna =\'Hitam\' and ukuran =\'Sedang\' 
+        and harga < 2000000 ORDER BY gitar.id_merk ASC')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\User->carikurangdariduajuta()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\gitar\\gitar\\public\\index.php')
+INFO - 2023-05-08 17:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-08 17:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
